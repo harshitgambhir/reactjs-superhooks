@@ -12,8 +12,8 @@
 	<hr>
 </div>
 
-![GitHub License](https://img.shields.io/github/license/harshitgambhir/reactjs-superhooks)
-![NPM Version](https://img.shields.io/npm/v/reactjs-superhooks)
+[![NPM](https://img.shields.io/npm/l/reactjs-superhooks)](https://github.com/harshitgambhir/reactjs-superhooks/blob/main/LICENSE.md)
+[![NPM Version](https://img.shields.io/npm/v/reactjs-superhooks)](https://www.npmjs.com/package/reactjs-superhooks)
 
 # Superhooks
 
