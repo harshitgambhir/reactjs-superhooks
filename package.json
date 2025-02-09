@@ -1,0 +1,54 @@
+{
+  "name": "reactjs-superhooks",
+  "version": "1.0.0",
+  "description": "A collection of React Hooks",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest --watch --coverage",
+    "prepublishOnly": "npm run build",
+    "publish": "npm publish --access-public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshitgambhir/reactjs-superhooks.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "nextjs",
+    "hooks",
+    "components",
+    "javascript",
+    "state",
+    "frontend",
+    "react-hooks"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "dependencies": {
+    "react": ">=16.8.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.2.0",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^20.8.0",
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.6",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "author": "Harshit Gambhir",
+  "license": "MIT"
+}
