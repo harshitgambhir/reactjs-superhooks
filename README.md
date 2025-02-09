@@ -13,8 +13,7 @@
 </div>
 
 ![GitHub License](https://img.shields.io/github/license/harshitgambhir/reactjs-superhooks)
-![NPM Version](https://img.shields.io/npm/v/harshitgambhir/reactjs-superhooks)
-![NPM Downloads](https://img.shields.io/npm/dm/harshitgambhir/reactjs-superhooks)
+![NPM Version](https://img.shields.io/npm/v/reactjs-superhooks)
 
 # Superhooks
 
@@ -81,7 +80,7 @@ export default ExampleComponent;
 
 ## Contributing
 
-Superhooks is always open to improvements and contributions, you can check the [Open Issues](https://github.com/harshitgambhir/reactjs-superhooks/issues) if you want to contribute, and it's also possible to request to add your own improvements/ideas using the [Feature Request](https://github.com/harshitgambhir/reactjs-superhooks/issues/new/choose) template. Before contributing, please read the [Contribution Guide](https://github.com/harshitgambhir/reactjs-superhooks/blob/main/CONTRIBUTING.MD) and make sure to respect the standards! Thank you for your time!
+Superhooks is always open to improvements and contributions, you can check the [Open Issues](https://github.com/harshitgambhir/reactjs-superhooks/issues) if you want to contribute, and it's also possible to request to add your own improvements/ideas using the [Feature Request](https://github.com/harshitgambhir/reactjs-superhooks/issues/new/choose) template. Before contributing, please read the [Contribution Guide](https://github.com/harshitgambhir/reactjs-superhooks/blob/main/CONTRIBUTING.MD) and make sure to respect the standards!
 
 ## Hooks
 
