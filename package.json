@@ -1,6 +1,6 @@
 {
   "name": "reactjs-superhooks",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A collection of React Hooks",
   "scripts": {
     "build": "tsc",
