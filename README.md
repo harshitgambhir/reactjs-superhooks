@@ -85,6 +85,8 @@ Superhooks is always open to improvements and contributions, you can check the [
 ## Hooks
 
 - `useWindowSize()` - Tracks and updates browser window size on resize.
+- `useDebounce()` - Delays updating the value until after the specified delay.
+- `useLocalStorage()` - Persist a state value in localStorage.
 
 ## Maintainers
 
